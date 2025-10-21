@@ -10,7 +10,7 @@ public class Circle {
 		this.radius = Radius;
 	}
 	
-	public double circumfrence() {
+	public double circumference() {
 		return 2*Math.PI*radius;
 	}
 	
